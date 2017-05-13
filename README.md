@@ -64,4 +64,13 @@ Set tabs to infiniteTabAdapter
 
 
 
-<img src ="Screenshot_2017-05-13-12-50-31.png" width="540" height="960">
+<img src ="screenview.gif" width="540" height="960">
+
+
+
+
+
+
+
+
+<img src ="Screen" width="540" height="960">
