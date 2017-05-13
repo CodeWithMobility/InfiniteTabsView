@@ -61,3 +61,7 @@ Set tabs to infiniteTabAdapter
             }
         });
         infiniteTabView.setAdapter(infiniteTabAdapter);
+
+
+
+<img src ="images/Screenshot.png" width="540" height="960">
