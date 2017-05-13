@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomColor">
+        <attr name="selectedcolorCode" format="string" />
+        <attr name="unSelectedcolorCode" format="string" />
+        <attr name="textSelectedcolorCode" format="string" />
+        <attr name="textUnSelectedColorCode" format="string"/>
+    </declare-styleable>
+
+</resources>
