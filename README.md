@@ -1,5 +1,10 @@
 # InfiniteTabsView
 InfiniteScrolling Tabs in android
+
+
+<img src ="screenview.gif" width="540" height="960">
+
+
 How to
 
 To get a Git project into your build:
@@ -63,8 +68,6 @@ Set tabs to infiniteTabAdapter
         infiniteTabView.setAdapter(infiniteTabAdapter);
 
 
-
-<img src ="screenview.gif" width="540" height="960">
 
 
 
